@@ -9,8 +9,5 @@
       src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
 </p>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=renanfilipe&show_icons=true&count_private=true&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfilipe&hide=jupyter%20notebook,python,objective-c" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=renanfilipe&show_icons=true&count_private=true&hide=stars" />
+<img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfilipe&hide=jupyter%20notebook,python,objective-c" />
