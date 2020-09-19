@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="mailto:renanfilipe10@hotmail.com">
+    <img alt="Email"
+      src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:renanfilipe10@hotmail.com">
+  </a>
 
-<!--
-**renanfilipe/renanfilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/renanfilipe/">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=renanfilipe&show_icons=true&count_private=true&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfilipe&hide=jupyter%20notebook,python,objective-c" />
+</div>
