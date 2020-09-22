@@ -9,5 +9,5 @@
 </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=renanfilipe&show_icons=true&count_private=true&hide=stars&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=renanfilipe&show_icons=true&count_private=true&hide=stars" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfilipe&hide=jupyter%20notebook,python,objective-c" />
